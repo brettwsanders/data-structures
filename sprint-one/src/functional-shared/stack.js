@@ -18,7 +18,6 @@ var stackMethods = {
   },
   size: function(){
     var count = 0;
-    // var storage = this.storage;
     for (var key in this.storage) {
       count++;
     }
