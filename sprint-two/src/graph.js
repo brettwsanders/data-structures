@@ -1,9 +1,4 @@
 
-
-// ###Graph Solution
-
-// Instantiate a new graph
-
 var Graph = function(){
   this.nodes = {};
 };
